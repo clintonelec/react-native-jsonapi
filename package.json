@@ -1,10 +1,10 @@
 {
-  "name": "jsonapi-react",
-  "version": "0.0.22",
+  "name": "jsonapi-react-native",
+  "version": "0.0.1",
   "description": "A minimal JSON:API client and React hooks for fetching, updating, and caching remote data.",
   "author": "aribouius",
   "license": "MIT",
-  "repository": "aribouius/jsonapi-react",
+  "repository": "martianatwork/jsonapi-react",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "types/index.d.ts",
