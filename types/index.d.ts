@@ -76,12 +76,6 @@ declare module 'jsonapi-react' {
 
   export const ApiContext: React.Context
 
-  export function renderWithData(
-    element: JSX.Element,
-    client: ApiClient,
-    config?: {}
-  ): [content: string, initialState: any]
-
   export function useClient(): ApiClient
 
   export function useIsFetching(): { isFetching: boolean }

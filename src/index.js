@@ -1,7 +1,6 @@
 export { ApiProvider } from './context'
 export { ApiClient } from './client'
 export { useQuery, useMutation, useClient, useIsFetching } from './hooks'
-export { renderWithData } from './render'
 export { Serializer } from './serializer'
 export {
   REQUEST_QUERY,
